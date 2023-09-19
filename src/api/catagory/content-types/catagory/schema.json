@@ -35,6 +35,9 @@
     },
     "description": {
       "type": "text"
+    },
+    "route": {
+      "type": "string"
     }
   }
 }
