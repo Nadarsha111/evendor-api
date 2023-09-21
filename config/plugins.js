@@ -20,3 +20,15 @@ module.exports = ({ env }) => ({
   },
   // ...
 });
+
+// module.exports = ({ env }) => ({
+//   // ...
+//   "users-permissions": {
+//     config: {
+//       jwt: {
+//         expiresIn: "2000",
+//       },
+//     },
+//   },
+//   // ...
+// });
